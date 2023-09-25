@@ -3,4 +3,5 @@ Ejercicio que consiste en generar 1 número aleatorio con cada botón para luego
 
 ![image](https://github.com/CamperSergioGaravito/fiboCartas/assets/137243895/215b8508-3ab6-433c-b12c-89168ef7b303)
 
-![image](https://github.com/CamperSergioGaravito/fiboCartas/assets/137243895/f353781c-7b49-46c2-b558-3311cafdd174)
+![image](https://github.com/CamperSergioGaravito/fiboCartas/assets/137243895/84ece2c8-cc4a-4211-a0f4-089d229a9163)
+
