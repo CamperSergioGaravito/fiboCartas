@@ -1,0 +1,40 @@
+
+
+body {
+    height: 100vh;
+    background-color: #1F8A70;
+}
+
+.h2Fibo {
+    font-size: 90pt;
+    background-color: rgba(255, 255, 255, 0.397);
+}
+
+.imgCarta {
+    width: 60%;
+    min-width: 99px;
+}
+
+.contCartas, .h2Puntos {
+    background-color: rgba(255, 255, 255, 0.397);
+}
+
+.contCartas {
+    height: 60vh;
+}
+
+@media (max-width: 1000px) and (orientation: landscape) {
+    body {
+        height: 100vh;
+    }
+}
+
+@media (max-width: 500px) {
+    .h2Fibo {
+        font-size: 45pt;
+    }
+
+    .contCartas {
+        height: 30vh;
+    }
+}
